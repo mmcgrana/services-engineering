@@ -2,9 +2,6 @@
 
 * A reading list for services engineering, with a focus on cloud infrastructure services
 * Most content is on applied distributed systems and systems operations
-* Goals
-  * Collect relevant information in a single place
-  * Provide insight into how organizations running services think about systems engineering
 * WIP, please send suggestions to [@mmcgrana](https://twitter.com/mmcgrana)
 
 #### Papers
