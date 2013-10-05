@@ -1,7 +1,5 @@
 ## Services Engineering Reading List
 
-#### Overview
-
 * A reading list for services engineering, with a focus on cloud infrastructure services
 * Most content is on applied distributed systems and systems operations
 * Goals
