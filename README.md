@@ -6,17 +6,17 @@
 
 #### Papers
 
+* [Making Reliable Distributed Systems in the Presence of Software Errors](http://www.erlang.org/download/armstrong_thesis_2003.pdf) (Armstrong)
+* [The Chubby Lock Service for Loosely Coupled Distributed Systems](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/archive/chubby-osdi06.pdf) (Burrows)
 * [Bigtable: a Distributed Storage System for Structured Data](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/chang06bigtable.pdf) (Chang et al.)
+* [Spanner: Google’s Globally-Distributed Database](http://research.google.com/archive/spanner-osdi2012.pdf) (Corbett et al.)
 * [Dynamo: Amazon’s Highly Available Key-Value Store](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/decandia07dynamo.pdf) (DeCandia et al.)
 * [MapReduce: Simplified Data Processing on Large Clusters](http://research.google.com/archive/mapreduce-osdi04.pdf) (Dean and Ghemawat)
-* [The Chubby Lock Service for Loosely Coupled Distributed Systems](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/archive/chubby-osdi06.pdf) (Burrows)
-* [Dapper, A Large Scale Distributed Systems Tracing Infrastructure](http://research.google.com/pubs/archive/36356.pdf) (Sigelman et al.)
 * [The Google File System](http://research.google.com/archive/gfs-sosp2003.pdf) (Ghemawat et al.)
-* [Spanner: Google’s Globally-Distributed Database](http://research.google.com/archive/spanner-osdi2012.pdf) (Corbett et al.)
-* [Making Reliable Distributed Systems in the Presence of Software Errors](http://www.erlang.org/download/armstrong_thesis_2003.pdf) (Armstrong)
 * [Failure Trends in a Large Disk Drive Population](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/archive/disk_failures.pdf) (Pinheiro et al.)
 * [Fallacies of Distributed Computing Explained](http://www.rgoarchitects.com/Files/fallacies.pdf) (Rotem-Gal-Oz)
 * [F1 - The Fault-Tolerant Distributed RDBMS Supporting Google’s Ad Business](http://research.google.com/pubs/archive/38125.pdf) (Shute et al.)
+* [Dapper, A Large Scale Distributed Systems Tracing Infrastructure](http://research.google.com/pubs/archive/36356.pdf) (Sigelman et al.)
 
 #### Posts
 
