@@ -6,6 +6,7 @@
 
 #### Papers
 
+* [Dynamo: Amazon’s Highly Available Key-Value Store](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/decandia07dynamo.pdf) (DeCandia et al.)
 * [MapReduce: Simplified Data Processing on Large Clusters](http://research.google.com/archive/mapreduce-osdi04.pdf) (Dean and Ghemawat)
 * [The Chubby Lock Service for Loosely Coupled Distributed Systems](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/archive/chubby-osdi06.pdf) (Burrows)
 * [Dapper, A Large Scale Distributed Systems Tracing Infrastructure](http://research.google.com/pubs/archive/36356.pdf) (Sigelman et al.)
