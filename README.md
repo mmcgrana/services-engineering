@@ -13,6 +13,7 @@
 * [Dynamo: Amazon’s Highly Available Key-Value Store](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/decandia07dynamo.pdf) (DeCandia et al.)
 * [MapReduce: Simplified Data Processing on Large Clusters](http://research.google.com/archive/mapreduce-osdi04.pdf) (Dean and Ghemawat)
 * [The Google File System](http://research.google.com/archive/gfs-sosp2003.pdf) (Ghemawat et al.)
+* [Out of the Tar Pit](http://shaffner.us/cs/papers/tarpit.pdf) (Moseley and Marks)
 * [Failure Trends in a Large Disk Drive Population](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/archive/disk_failures.pdf) (Pinheiro et al.)
 * [Fallacies of Distributed Computing Explained](http://www.rgoarchitects.com/Files/fallacies.pdf) (Rotem-Gal-Oz)
 * [F1 - The Fault-Tolerant Distributed RDBMS Supporting Google’s Ad Business](http://research.google.com/pubs/archive/38125.pdf) (Shute et al.)
