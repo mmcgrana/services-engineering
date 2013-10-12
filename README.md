@@ -19,6 +19,7 @@
 * [Fallacies of Distributed Computing Explained](http://www.rgoarchitects.com/Files/fallacies.pdf) (Rotem-Gal-Oz)
 * [F1 - The Fault-Tolerant Distributed RDBMS Supporting Google’s Ad Business](http://research.google.com/pubs/archive/38125.pdf) (Shute et al.)
 * [Dapper, A Large Scale Distributed Systems Tracing Infrastructure](http://research.google.com/pubs/archive/36356.pdf) (Sigelman et al.)
+* [Crew Resource Management: a Positive Change for the Fire Service](http://www.iaff.org/06news/NearMissKit/6.%20Crew%20Resource%20Management/CRM.pdf)
 
 #### Posts
 
@@ -38,7 +39,6 @@
 * [Getting Real About Distributed Systems Reliability](http://blog.empathybox.com/post/19574936361/getting-real-about-distributed-system-reliability) (Kreps)
 * [On HTTP Load Testing](http://www.mnot.net/blog/2011/05/18/http_benchmark_rules) (Nottingham)
 * [Observability at Twitter](https://blog.twitter.com/2013/observability-at-twitter) (Watson)
-* [Crew Resource Management](http://en.wikipedia.org/wiki/Crew_resource_management) (Wikipedia)
 * [Stevey’s Google Platforms Rant](https://plus.google.com/112678702228711889851/posts/eVeouesvaVX) (Yegge)
 
 #### Presentations
