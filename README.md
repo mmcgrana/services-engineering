@@ -15,12 +15,12 @@
 * [MapReduce: Simplified Data Processing on Large Clusters](http://research.google.com/archive/mapreduce-osdi04.pdf) (Dean and Ghemawat)
 * [The Google File System](http://research.google.com/archive/gfs-sosp2003.pdf) (Ghemawat et al.)
 * [Out of the Tar Pit](http://shaffner.us/cs/papers/tarpit.pdf) (Moseley and Marks)
+* [In Search of an Understandable Consensus Algorithm](https://ramcloud.stanford.edu/wiki/download/attachments/11370504/raft.pdf) (Ongaro and Ousterhout)
 * [Failure Trends in a Large Disk Drive Population](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/archive/disk_failures.pdf) (Pinheiro et al.)
 * [Fallacies of Distributed Computing Explained](http://www.rgoarchitects.com/Files/fallacies.pdf) (Rotem-Gal-Oz)
 * [F1 - The Fault-Tolerant Distributed RDBMS Supporting Google’s Ad Business](http://research.google.com/pubs/archive/38125.pdf) (Shute et al.)
 * [Dapper, A Large Scale Distributed Systems Tracing Infrastructure](http://research.google.com/pubs/archive/36356.pdf) (Sigelman et al.)
 * [Crew Resource Management: a Positive Change for the Fire Service](http://www.iaff.org/06news/NearMissKit/6.%20Crew%20Resource%20Management/CRM.pdf)
-
 #### Posts
 
 * [Resilience Engineering: Part I](http://www.kitchensoap.com/2011/04/07/resilience-engineering-part-i/), [Part II](http://www.kitchensoap.com/2012/06/18/resilience-engineering-part-ii-lenses/) (Allspaw)
