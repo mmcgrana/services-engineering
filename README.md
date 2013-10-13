@@ -63,6 +63,7 @@
 #### Conferences
 
 * [Ricon](http://ricon.io/)
+* [Surge](http://surge.omniti.com/)
 * [Velocity](http://velocityconf.com/)
 
 #### Courseware
