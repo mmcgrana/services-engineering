@@ -37,6 +37,7 @@
 * [Life Beyond Distributed Transactions: An Apostate’s Opinion](http://cs.brown.edu/courses/cs227/archives/2012/papers/weaker/cidr07p15.pdf) (Helland)
 * [Notes on Distributed Systems for Young Bloods](http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/) (Hodges)
 * [The Network is Reliable](http://aphyr.com/posts/288-the-network-is-reliable) (Kingsbury)
+* [The Trouble with Clocks](http://aphyr.com/posts/299-the-trouble-with-timestamps) (Kingsbury)
 * [Call Me Maybe: Final Thoughts](http://aphyr.com/posts/286-call-me-maybe-final-thoughts) (Kingsbury)
 * [Getting Real About Distributed Systems Reliability](http://blog.empathybox.com/post/19574936361/getting-real-about-distributed-system-reliability) (Kreps)
 * [On HTTP Load Testing](http://www.mnot.net/blog/2011/05/18/http_benchmark_rules) (Nottingham)
