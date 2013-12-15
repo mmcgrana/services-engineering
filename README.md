@@ -48,6 +48,7 @@
 
 * [On Designing and Deploying Internet Scale Services](http://mvdirona.com/jrh/talksAndPapers/JamesRH_Lisa.pdf) (Hamilton)
 * [Service Design Best Practices](http://www.mvdirona.com/jrh/TalksAndPapers/JamesHamilton_POA20090226.pdf) (Hamilton)
+* [Micro Services](http://www.infoq.com/presentations/Micro-Services)
 
 #### Books
 
