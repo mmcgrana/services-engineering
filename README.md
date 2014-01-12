@@ -56,6 +56,7 @@
 * [The Checklist Manifesto: How to Get Things Right](http://www.amazon.com/The-Checklist-Manifesto-ebook/dp/B0030V0PEW) (Gawande)
 * [Resilience Engineering in Practice](http://www.amazon.com/Resilience-Engineering-Practice-Ashgate-Studies/dp/1409410358/) (Hollnagel et al.)
 * [The Challenger Launch Decision](http://www.amazon.com/The-Challenger-Launch-Decision-Technology/dp/0226851761) (Vaughan)
+* [Managing the Unexpected](http://www.amazon.com/gp/product/B004IK9U4U) (Weick and Sutcliffe)
 
 #### Research Groups
 
