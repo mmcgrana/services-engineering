@@ -51,6 +51,7 @@
 
 #### Books
 
+* [The Field Guide To Understanding Human Error](http://www.amazon.com/Field-Guide-Understanding-Human-Error/dp/0754648265) (Dekker)
 * [Agile Retrospectives: Making Good Teams Great](http://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649) (Derby et al.)
 * [Better: A Surgeon’s Notes on Performance](http://www.amazon.com/dp/0312427654) (Gawande)
 * [The Checklist Manifesto: How to Get Things Right](http://www.amazon.com/The-Checklist-Manifesto-ebook/dp/B0030V0PEW) (Gawande)
