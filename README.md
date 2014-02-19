@@ -56,6 +56,7 @@
 * [Better: A Surgeon’s Notes on Performance](http://www.amazon.com/dp/0312427654) (Gawande)
 * [The Checklist Manifesto: How to Get Things Right](http://www.amazon.com/The-Checklist-Manifesto-ebook/dp/B0030V0PEW) (Gawande)
 * [Resilience Engineering in Practice](http://www.amazon.com/Resilience-Engineering-Practice-Ashgate-Studies/dp/1409410358/) (Hollnagel et al.)
+* [Effective Monitoring and Alerting](http://www.amazon.com/Effective-Monitoring-Alerting-For-Operations/dp/1449333524) (Ligus)
 * [The Challenger Launch Decision](http://www.amazon.com/The-Challenger-Launch-Decision-Technology/dp/0226851761) (Vaughan)
 * [Managing the Unexpected](http://www.amazon.com/gp/product/B004IK9U4U) (Weick and Sutcliffe)
 
