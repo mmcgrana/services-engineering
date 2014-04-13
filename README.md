@@ -22,8 +22,9 @@
 * [Fallacies of Distributed Computing Explained](http://www.rgoarchitects.com/Files/fallacies.pdf) (Rotem-Gal-Oz)
 * [F1 - The Fault-Tolerant Distributed RDBMS Supporting Google’s Ad Business](http://research.google.com/pubs/archive/38125.pdf) (Shute et al.)
 * [Dapper, A Large Scale Distributed Systems Tracing Infrastructure](http://research.google.com/pubs/archive/36356.pdf) (Sigelman et al.)
-* [Crew Resource Management: a Positive Change for the Fire Service](http://www.iaff.org/06news/NearMissKit/6.%20Crew%20Resource%20Management/CRM.pdf)
 * [Resident Distributed Datasets: a Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf) (Zahari et al.)
+* [Crew Resource Management: a Positive Change for the Fire Service](http://www.iaff.org/06news/NearMissKit/6.%20Crew%20Resource%20Management/CRM.pdf)
+
 
 #### Posts
 
