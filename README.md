@@ -44,6 +44,7 @@
 * [On HTTP Load Testing](http://www.mnot.net/blog/2011/05/18/http_benchmark_rules) (Nottingham)
 * [Observability at Twitter](https://blog.twitter.com/2013/observability-at-twitter) (Watson)
 * [Stevey’s Google Platforms Rant](https://plus.google.com/112678702228711889851/posts/eVeouesvaVX) (Yegge)
+* [Resident Distributed Datasets: a Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf) (Zahari et al.)
 
 #### Presentations
 
