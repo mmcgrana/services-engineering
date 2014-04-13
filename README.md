@@ -57,6 +57,7 @@
 * [Agile Retrospectives: Making Good Teams Great](http://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649) (Derby et al.)
 * [Better: A Surgeon’s Notes on Performance](http://www.amazon.com/dp/0312427654) (Gawande)
 * [The Checklist Manifesto: How to Get Things Right](http://www.amazon.com/The-Checklist-Manifesto-ebook/dp/B0030V0PEW) (Gawande)
+* [High Performance Browswer Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html) (Grigorik)
 * [Resilience Engineering in Practice](http://www.amazon.com/Resilience-Engineering-Practice-Ashgate-Studies/dp/1409410358/) (Hollnagel et al.)
 * [Effective Monitoring and Alerting](http://www.amazon.com/Effective-Monitoring-Alerting-For-Operations/dp/1449333524) (Ligus)
 * [The Challenger Launch Decision](http://www.amazon.com/The-Challenger-Launch-Decision-Technology/dp/0226851761) (Vaughan)
