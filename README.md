@@ -2,7 +2,7 @@
 
 * A reading list for services engineering, with a focus on cloud infrastructure services
 * Most content is on applied distributed systems and systems operations
-* Please send suggestions to [@mmcgrana](https://twitter.com/mmcgrana) or [open a GitHub issue](https://github.com/mmcgrana/services-engineering/issues)
+* Please send suggestions to [@mmcgrana](https://twitter.com/mmcgrana) or [open an issue](https://github.com/mmcgrana/services-engineering/issues)
 
 #### Papers
 
