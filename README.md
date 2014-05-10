@@ -43,6 +43,7 @@
 * [The Trouble with Clocks](http://aphyr.com/posts/299-the-trouble-with-timestamps) (Kingsbury)
 * [Call Me Maybe: Final Thoughts](http://aphyr.com/posts/286-call-me-maybe-final-thoughts) (Kingsbury)
 * [Getting Real About Distributed Systems Reliability](http://blog.empathybox.com/post/19574936361/getting-real-about-distributed-system-reliability) (Kreps)
+* [Incident Response at Heroku](https://blog.heroku.com/archives/2014/5/9/incident-response-at-heroku) (McGranaghan)
 * [On HTTP Load Testing](http://www.mnot.net/blog/2011/05/18/http_benchmark_rules) (Nottingham)
 * [Observability at Twitter](https://blog.twitter.com/2013/observability-at-twitter) (Watson)
 * [Stevey’s Google Platforms Rant](https://plus.google.com/112678702228711889851/posts/eVeouesvaVX) (Yegge)
