@@ -8,6 +8,7 @@
 
 * [Making Reliable Distributed Systems in the Presence of Software Errors](http://www.erlang.org/download/armstrong_thesis_2003.pdf) (Armstrong)
 * [Highly Available Transactions: Virtues and Limitations](http://www.bailis.org/papers/hat-vldb2014.pdf) (Bailis et al.)
+* [The Incident Command System](http://www.high-reliability.org/files/The_Incident_Command_System.pdf) (Bigley and Roberts)
 * [The Chubby Lock Service for Loosely Coupled Distributed Systems](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/archive/chubby-osdi06.pdf) (Burrows)
 * [Bigtable: a Distributed Storage System for Structured Data](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/chang06bigtable.pdf) (Chang et al.)
 * [Spanner: Google’s Globally-Distributed Database](http://research.google.com/archive/spanner-osdi2012.pdf) (Corbett et al.)
