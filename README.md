@@ -64,6 +64,7 @@
 * [High Performance Browswer Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html) (Grigorik)
 * [Resilience Engineering in Practice](http://www.amazon.com/Resilience-Engineering-Practice-Ashgate-Studies/dp/1409410358/) (Hollnagel et al.)
 * [Effective Monitoring and Alerting](http://www.amazon.com/Effective-Monitoring-Alerting-For-Operations/dp/1449333524) (Ligus)
+* [Release It!: Design and Deploy Production-Ready Software](http://www.amazon.com/Release-It-Production-Ready-Pragmatic-Programmers/dp/0978739213) (Nygard)
 * [The Challenger Launch Decision](http://www.amazon.com/The-Challenger-Launch-Decision-Technology/dp/0226851761) (Vaughan)
 * [Managing the Unexpected](http://www.amazon.com/gp/product/B004IK9U4U) (Weick and Sutcliffe)
 
