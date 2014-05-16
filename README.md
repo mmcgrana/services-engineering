@@ -81,7 +81,3 @@
 * [Ricon](http://ricon.io/)
 * [Surge](http://surge.omniti.com/)
 * [Velocity](http://velocityconf.com/)
-
-#### Courseware
-
-* [University of Illinois CS 525: Advanced Distributed Systems](http://courses.engr.illinois.edu/cs525/sp2011/sched.htm)
