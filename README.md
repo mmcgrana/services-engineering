@@ -34,7 +34,6 @@
 * [Systems Engineering: a Great Definition](http://www.kitchensoap.com/2011/07/18/systems-engineering-great-definition/) (Allspaw)
 * [Some Rules for Engineering and Operations](http://blog.b3k.us/2012/01/24/some-rules.html) (Black)
 * [Service Level Disagreements Part I](http://blog.b3k.us/2009/07/15/service-level-disagreements.html), [Part II](http://blog.b3k.us/2009/07/16/service-level-disagreements-2.html) (Black)
-* [Design, Lessons, and Advice from Building Distributed Systems at Google](http://odbms.org/download/dean-keynote-ladis2009.pdf) (Dean)
 * [My Philosophy on Alerting](https://docs.google.com/document/d/199PqyG3UsyXlwieHaqbGiWVa8eMWi8zzAn0YfcApr8Q/edit#heading=h.whsaboyw21nk) (Ewaschuk)
 * [You Can’t Sacrifice Partition Tolerance](http://codahale.com/you-cant-sacrifice-partition-tolerance/) (Hale)
 * [Customer Trust](http://perspectives.mvdirona.com/2013/01/15/CustomerTrust.aspx) (Hamilton)
@@ -53,6 +52,7 @@
 
 #### Presentations
 
+* [Design, Lessons, and Advice from Building Distributed Systems at Google](http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf) (Dean)
 * [Service Design Best Practices](http://www.mvdirona.com/jrh/TalksAndPapers/JamesHamilton_POA20090226.pdf) (Hamilton)
 
 #### Books
