@@ -74,6 +74,7 @@
 * [Berkeley Database Group](http://db.cs.berkeley.edu/w/)
 * [Google Research](http://research.google.com/)
 * [Microsoft Systems Research](http://research.microsoft.com/en-US/groups/sr/default.aspx)
+* [Twitter Research](https://engineering.twitter.com/research)
 
 #### Conferences
 
