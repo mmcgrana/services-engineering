@@ -17,6 +17,8 @@
 * [The Google File System](http://research.google.com/archive/gfs-sosp2003.pdf) (Ghemawat et al.)
 * [On Designing and Deploying Internet Scale Services](http://mvdirona.com/jrh/talksAndPapers/JamesRH_Lisa.pdf) (Hamilton)
 * [Kafka: A Distributed Messaging System for Log Processing](http://research.microsoft.com/en-us/UM/people/srikanth/netdb11/netdb11papers/netdb11-final12.pdf) (Kreps et al.)
+* [The Unified Logging Infrastructure for Data Analytics at Twitter](http://vldb.org/pvldb/vol5/p1771_georgelee_vldb2012.pdf) (Lee et al.)
+* [Scaling Big Data Mining Infrastructure: The Twitter Experience](http://www.kdd.org/sites/default/files/issues/14-2-2012-12/V14-02-02-Lin.pdf) (Lin and Rayboy)
 * [Dremel: Interactive Analysis of Web-Scale Datasets](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/pubs/archive/36632.pdf) (Melnik et al.)
 * [Out of the Tar Pit](http://shaffner.us/cs/papers/tarpit.pdf) (Moseley and Marks)
 * [In Search of an Understandable Consensus Algorithm](https://ramcloud.stanford.edu/wiki/download/attachments/11370504/raft.pdf) (Ongaro and Ousterhout)
@@ -27,6 +29,7 @@
 * [Resident Distributed Datasets: a Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf) (Zahari et al.)
 * [The Human Side of Postmortems](https://docs.google.com/file/d/0Byl4UKRYLErDVlJMNDNjaThiR2M/edit) (Zwieback)
 * [Crew Resource Management: a Positive Change for the Fire Service](http://www.iaff.org/06news/NearMissKit/6.%20Crew%20Resource%20Management/CRM.pdf)
+
 
 #### Posts
 
