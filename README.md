@@ -7,6 +7,7 @@ We welcome [suggestions](CONTRIBUTING.md).
 
 #### Papers
 
+* [Fault Injection in Production](http://delivery.acm.org/10.1145/2360000/2353017/p30-allspaw.pdf) (Allspaw)
 * [Making Reliable Distributed Systems in the Presence of Software Errors](http://www.erlang.org/download/armstrong_thesis_2003.pdf) (Armstrong)
 * [Highly Available Transactions: Virtues and Limitations](http://www.bailis.org/papers/hat-vldb2014.pdf) (Bailis et al.)
 * [The Incident Command System](http://www.high-reliability.org/files/The_Incident_Command_System.pdf) (Bigley and Roberts)
@@ -18,8 +19,10 @@ We welcome [suggestions](CONTRIBUTING.md).
 * [The Google File System](http://research.google.com/archive/gfs-sosp2003.pdf) (Ghemawat et al.)
 * [On Designing and Deploying Internet Scale Services](http://mvdirona.com/jrh/talksAndPapers/JamesRH_Lisa.pdf) (Hamilton)
 * [Kafka: A Distributed Messaging System for Log Processing](http://research.microsoft.com/en-us/UM/people/srikanth/netdb11/netdb11papers/netdb11-final12.pdf) (Kreps et al.)
+* [Weathering the Unexpected](http://delivery.acm.org/10.1145/2380000/2371516/p30-krishnan.pdf) (Krishnan)
 * [The Unified Logging Infrastructure for Data Analytics at Twitter](http://vldb.org/pvldb/vol5/p1771_georgelee_vldb2012.pdf) (Lee et al.)
 * [Automatic Management of Partitioned, Replicated Search Services](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.222.1862&rep=rep1&type=pdf) (Leibert et al.)
+* [Learning to Embrace Failure](http://best.dtu.dk/SC13/p20-casestudy.pdf) (Limoncelli et al.)
 * [Scaling Big Data Mining Infrastructure: The Twitter Experience](http://www.kdd.org/sites/default/files/issues/14-2-2012-12/V14-02-02-Lin.pdf) (Lin and Rayboy)
 * [Dremel: Interactive Analysis of Web-Scale Datasets](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/pubs/archive/36632.pdf) (Melnik et al.)
 * [Out of the Tar Pit](http://shaffner.us/cs/papers/tarpit.pdf) (Moseley and Marks)
@@ -37,6 +40,7 @@ We welcome [suggestions](CONTRIBUTING.md).
 
 * [Resilience Engineering: Part I](http://www.kitchensoap.com/2011/04/07/resilience-engineering-part-i/), [Part II](http://www.kitchensoap.com/2012/06/18/resilience-engineering-part-ii-lenses/) (Allspaw)
 * [Systems Engineering: a Great Definition](http://www.kitchensoap.com/2011/07/18/systems-engineering-great-definition/) (Allspaw)
+* [Chaos Monkey Released Into The Wild](http://techblog.netflix.com/2012/07/chaos-monkey-released-into-wild.html) (Bennett and Tseitlin)
 * [Some Rules for Engineering and Operations](http://blog.b3k.us/2012/01/24/some-rules.html) (Black)
 * [Service Level Disagreements Part I](http://blog.b3k.us/2009/07/15/service-level-disagreements.html), [Part II](http://blog.b3k.us/2009/07/16/service-level-disagreements-2.html) (Black)
 * [My Philosophy on Alerting](https://docs.google.com/document/d/199PqyG3UsyXlwieHaqbGiWVa8eMWi8zzAn0YfcApr8Q/edit#heading=h.whsaboyw21nk) (Ewaschuk)
