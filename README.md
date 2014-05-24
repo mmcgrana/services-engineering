@@ -7,7 +7,7 @@ We welcome [suggestions](CONTRIBUTING.md).
 
 #### Papers
 
-* [Fault Injection in Production](http://delivery.acm.org/10.1145/2360000/2353017/p30-allspaw.pdf) (Allspaw)
+* [Fault Injection in Production](http://queue.acm.org/detail.cfm?id=2353017) (Allspaw)
 * [Making Reliable Distributed Systems in the Presence of Software Errors](http://www.erlang.org/download/armstrong_thesis_2003.pdf) (Armstrong)
 * [Highly Available Transactions: Virtues and Limitations](http://www.bailis.org/papers/hat-vldb2014.pdf) (Bailis et al.)
 * [The Incident Command System](http://www.high-reliability.org/files/The_Incident_Command_System.pdf) (Bigley and Roberts)
@@ -19,7 +19,7 @@ We welcome [suggestions](CONTRIBUTING.md).
 * [The Google File System](http://research.google.com/archive/gfs-sosp2003.pdf) (Ghemawat et al.)
 * [On Designing and Deploying Internet Scale Services](http://mvdirona.com/jrh/talksAndPapers/JamesRH_Lisa.pdf) (Hamilton)
 * [Kafka: A Distributed Messaging System for Log Processing](http://research.microsoft.com/en-us/UM/people/srikanth/netdb11/netdb11papers/netdb11-final12.pdf) (Kreps et al.)
-* [Weathering the Unexpected](http://delivery.acm.org/10.1145/2380000/2371516/p30-krishnan.pdf) (Krishnan)
+* [Weathering the Unexpected](http://queue.acm.org/detail.cfm?id=2371516) (Krishnan)
 * [The Unified Logging Infrastructure for Data Analytics at Twitter](http://vldb.org/pvldb/vol5/p1771_georgelee_vldb2012.pdf) (Lee et al.)
 * [Automatic Management of Partitioned, Replicated Search Services](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.222.1862&rep=rep1&type=pdf) (Leibert et al.)
 * [Learning to Embrace Failure](http://best.dtu.dk/SC13/p20-casestudy.pdf) (Limoncelli et al.)
