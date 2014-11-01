@@ -47,6 +47,7 @@ We welcome [suggestions](CONTRIBUTING.md).
 * [You Can’t Sacrifice Partition Tolerance](http://codahale.com/you-cant-sacrifice-partition-tolerance/) (Hale)
 * [Customer Trust](http://perspectives.mvdirona.com/2013/01/15/CustomerTrust.aspx) (Hamilton)
 * [Observations on Errors, Corrections, & Trust of Dependent Systems](http://perspectives.mvdirona.com/2012/02/26/ObservationsOnErrorsCorrectionsTrustOfDependentSystems.aspx) (Hamilton)
+* [Game Day Exercises at Stripe: Learning from `kill -9`](https://stripe.com/blog/game-day-exercises-at-stripe) (Hedlund)
 * [Life Beyond Distributed Transactions: An Apostate’s Opinion](http://cs.brown.edu/courses/cs227/archives/2012/papers/weaker/cidr07p15.pdf) (Helland)
 * [Notes on Distributed Systems for Young Bloods](http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/) (Hodges)
 * [The Network is Reliable](http://aphyr.com/posts/288-the-network-is-reliable) (Kingsbury)
