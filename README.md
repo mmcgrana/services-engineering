@@ -44,6 +44,7 @@ We welcome [suggestions](CONTRIBUTING.md).
 * [Chaos Monkey Released Into The Wild](http://techblog.netflix.com/2012/07/chaos-monkey-released-into-wild.html) (Bennett and Tseitlin)
 * [Some Rules for Engineering and Operations](http://blog.b3k.us/2012/01/24/some-rules.html) (Black)
 * [Service Level Disagreements Part I](http://blog.b3k.us/2009/07/15/service-level-disagreements.html), [Part II](http://blog.b3k.us/2009/07/16/service-level-disagreements-2.html) (Black)
+* [Incuriosity Will Kill Your Infrastructure](http://yellerapp.com/posts/2015-03-16-incuriosity-killed-the-infrastructure.html) (Crayford)
 * [My Philosophy on Alerting](https://docs.google.com/document/d/199PqyG3UsyXlwieHaqbGiWVa8eMWi8zzAn0YfcApr8Q/edit#heading=h.whsaboyw21nk) (Ewaschuk)
 * [You Can’t Sacrifice Partition Tolerance](http://codahale.com/you-cant-sacrifice-partition-tolerance/) (Hale)
 * [Customer Trust](http://perspectives.mvdirona.com/2013/01/15/CustomerTrust.aspx) (Hamilton)
