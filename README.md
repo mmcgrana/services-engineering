@@ -60,6 +60,7 @@ We welcome [suggestions](CONTRIBUTING.md).
 * [On HTTP Load Testing](http://www.mnot.net/blog/2011/05/18/http_benchmark_rules) (Nottingham)
 * [Observability at Twitter](https://blog.twitter.com/2013/observability-at-twitter) (Watson)
 * [Stevey’s Google Platforms Rant](https://plus.google.com/112678702228711889851/posts/eVeouesvaVX) (Yegge)
+* [Incuriosity Will Kill Your Infrastructure](http://yellerapp.com/posts/2015-03-16-incuriosity-killed-the-infrastructure.html) (?)
 
 #### Presentations
 
