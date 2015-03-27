@@ -12,6 +12,8 @@ We welcome [suggestions](CONTRIBUTING.md).
 * [Highly Available Transactions: Virtues and Limitations](http://www.bailis.org/papers/hat-vldb2014.pdf) (Bailis et al.)
 * [The Incident Command System](http://www.high-reliability.org/files/The_Incident_Command_System.pdf) (Bigley and Roberts)
 * [The Chubby Lock Service for Loosely Coupled Distributed Systems](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/archive/chubby-osdi06.pdf) (Burrows)
+* [B4: Experience with a Globally Deployed Software Defined
+  WAN](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41761.pdf) (Sushant et al.)
 * [Bigtable: a Distributed Storage System for Structured Data](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/chang06bigtable.pdf) (Chang et al.)
 * [Spanner: Google’s Globally-Distributed Database](http://research.google.com/archive/spanner-osdi2012.pdf) (Corbett et al.)
 * [Dynamo: Amazon’s Highly Available Key-Value Store](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/decandia07dynamo.pdf) (DeCandia et al.)
