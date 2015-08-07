@@ -1,4 +1,4 @@
-## Services Engineering Reading List
+## Services Engineering Reading List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A reading list for services engineering, with a focus on cloud
 infrastructure services.
