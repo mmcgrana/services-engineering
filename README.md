@@ -66,6 +66,7 @@ We welcome [suggestions](CONTRIBUTING.md).
 
 * [Design, Lessons, and Advice from Building Distributed Systems at Google](http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf) (Dean)
 * [Service Design Best Practices](http://www.mvdirona.com/jrh/TalksAndPapers/JamesHamilton_POA20090226.pdf) (Hamilton)
+* [Micro Services](http://www.infoq.com/presentations/Micro-Services)
 
 #### Books
 
