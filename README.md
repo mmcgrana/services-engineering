@@ -79,6 +79,7 @@ We welcome [suggestions](CONTRIBUTING.md).
 * [Release It!: Design and Deploy Production-Ready Software](http://www.amazon.com/Release-It-Production-Ready-Pragmatic-Programmers/dp/0978739213) (Nygard)
 * [The Challenger Launch Decision](http://www.amazon.com/The-Challenger-Launch-Decision-Technology/dp/0226851761) (Vaughan)
 * [Managing the Unexpected](http://www.amazon.com/gp/product/B004IK9U4U) (Weick and Sutcliffe)
+* [System Performance](http://www.amazon.com/gp/product/0133390098/) (Brendan)
 
 #### Research Groups
 
