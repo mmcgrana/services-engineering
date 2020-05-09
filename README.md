@@ -60,7 +60,7 @@ We welcome [suggestions](CONTRIBUTING.md).
 * [Incident Response at Heroku](https://blog.heroku.com/archives/2014/5/9/incident-response-at-heroku) (McGranaghan)
 * [On HTTP Load Testing](http://www.mnot.net/blog/2011/05/18/http_benchmark_rules) (Nottingham)
 * [Observability at Twitter](https://blog.twitter.com/2013/observability-at-twitter) (Watson)
-* [Stevey’s Google Platforms Rant](https://plus.google.com/112678702228711889851/posts/eVeouesvaVX) (Yegge)
+* [Stevey’s Google Platforms Rant](https://gist.github.com/chitchcock/1281611) (Yegge)
 
 #### Presentations
 
