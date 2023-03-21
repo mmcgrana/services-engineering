@@ -35,6 +35,7 @@ We welcome [suggestions](CONTRIBUTING.md).
 * [Resident Distributed Datasets: a Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf) (Zahari et al.)
 * [The Human Side of Postmortems](https://docs.google.com/file/d/0Byl4UKRYLErDVlJMNDNjaThiR2M/edit) (Zwieback)
 * [Crew Resource Management: a Positive Change for the Fire Service](http://www.iaff.org/06news/NearMissKit/6.%20Crew%20Resource%20Management/CRM.pdf)
+* [Raft: "In Search of an Understandable Consensus Algorithm"](https://ramcloud.stanford.edu/wiki/download/attachments/11370504/raft.pdf) (Diego Ongaro and John Ousterhout)
 
 
 #### Posts
